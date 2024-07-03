@@ -1,0 +1,15 @@
+{
+  "name": "whatisbabel",
+  "version": "1.0.0",
+  "description": "\"바벨연습\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7"
+  }
+}
